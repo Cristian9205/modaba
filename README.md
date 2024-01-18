@@ -1,10 +1,6 @@
 # modaba
 import java.util.Scanner;
 
-/**
- *
- * @author USUARIO
- */
 public class Modaba {
 
     public static void main(String[] args) {
